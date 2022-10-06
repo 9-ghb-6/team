@@ -1,1 +1,5 @@
-//react-native init AwesomeProject
+function Home() {
+    return ( <></> );
+}
+
+export default Home;
